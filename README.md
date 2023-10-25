@@ -1,9 +1,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightningik&label=Profile%20views&color=0e75b6&style=flat" alt="lightningytlol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightningik&theme=onedark" alt="lightningik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightningik&theme=catppucchin-mocha" alt="lightningik" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+Discord: lightningik
+
 <p align="left">
 </p>
 
