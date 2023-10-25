@@ -16,4 +16,4 @@ Discord: lightningik
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lightningik&show_icons=true&locale=en&theme=algolia" alt="lightningytlol" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lightningik&theme=algolia" alt="lightningytlol" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lightningik" alt="lightningytlol" /></p>
